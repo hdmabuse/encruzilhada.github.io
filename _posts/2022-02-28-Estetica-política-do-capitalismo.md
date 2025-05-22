@@ -3,7 +3,7 @@ lang: pt
 title: Estética política do capitalismo
 ---
 
-A importância do lançamento no Brasil do primeiro livro de Mark Fisher, [Realismo Capitalista](https://autonomialiteraria.com.br/loja/teoria-politica/realismo-capitalista/), publicado originalmente em 2009, e lançado agora pela Autonomia Literária, me faz escrever essas poucas linhas para dar conta de uma primeira e incompleta leitura da sua obra.  
+<img src="./assets/img/fisher.jpg" alt="Mark Fisher"/><small>Mark FisherI</small> A importância do lançamento no Brasil do primeiro livro de Mark Fisher, [Realismo Capitalista](https://autonomialiteraria.com.br/loja/teoria-politica/realismo-capitalista/), publicado originalmente em 2009, e lançado agora pela Autonomia Literária, me faz escrever essas poucas linhas para dar conta de uma primeira e incompleta leitura da sua obra.
 
 Nascido no ano de 1968 em East Midlands, região de forte presença do movimento operário, notável por ter dado ao mundo a literatura de Thomas Hardy e o levante Ludita de 1810. Mark Fisher, ainda nos anos 1990, segue uma jornada que combina uma relação conflituosa com a academia, e a proximidade com [produção cultural](https://www.thewire.co.uk/news/45139/mark-fisher-1968-201). Dessa forma tornou-se um pensador de difícil classificação, já foi considerado (entre outros rótulos) [cyberpunk, aceleracionista, crítico cultural, marxista, acadêmico e blogueiro](https://jacobin.com.br/2020/07/contra-o-fim-da-historia/).
 
