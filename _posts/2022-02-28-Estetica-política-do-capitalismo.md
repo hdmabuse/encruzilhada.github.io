@@ -1,9 +1,4 @@
 ---
-
-title:
-
-
----
 layout: post
 lang: pt
 read_time: true
@@ -11,7 +6,7 @@ show_date: true
 title:  Estética política do capitalismo
 date:   2021-01-25 13:32:20 -0600
 description: Single neuron perceptron that classifies elements learning quite quickly.
-img:fisher.jpg
+img: fisher.jpg
 tags: [filosofia, aceleracionismo, cultura pop]
 author: h.d.mabuse
 github:  hdmabuse
