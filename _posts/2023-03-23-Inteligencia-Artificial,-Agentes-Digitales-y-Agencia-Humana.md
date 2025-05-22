@@ -1,12 +1,40 @@
 ---
 lang: es
 title: Inteligencia artificial, agentes digitales y agencia humana
-permalink: /blog/es/
+layout: post
+read_time: true
+show_date: true
+date: 2023-03-23 13:32:20 -0600
+description: '«Los agentes digitales moldean comportamientos mediante datos, pero carecen de la "posicionalidad excéntrica" humana: esa autoimagen multifacética (subjetiva, social y objetiva) que genera ambigüedad creativa, incertidumbre y significado, inexistentes en el funcionamento estatístico de la IA».'
+img: agentes.jpg
+tags:
+- Agentes digitales  
+- Agencia humana vs. agencia algorítmica  
+- Posicionalidad excéntrica (Helmuth Plessner)  
+- Antropología filosófica  
+- Sistemas de recomendación (Netflix/YouTube)  
+- Teoría de sistemas  
+- Percepción y acción en IA  
+- Inteligencia Artificial orientada por datos  
+- Incongruencia existencial  
+- Autoconciencia multifocal (primera, segunda y tercera persona)  
+- Mireille Hildebrandt  
+- Cibernética de segundo orden  
+- Producción de significado vs. cálculo matemático  
+- Ambiguidad productiva  
+- Vulnerabilidad ontológica  
+- Agencia no humana (termostatos/plantas)  
+- Crítica a la neutralidad tecnológica  
+- 
+author: h.d.mabuse
+courtesy_of: 
+name: Haidée Lima
+link: @hdee.art
 ---
 
 Publicado originalmente en portugués el 23 de marzo de 2023.  
 
-![](ReadItLater%20Inbox/assets/Inteligencia%20Artificial,%20Agentes%20Digitales%20y%20Agencia%20Humana/654be3_14c1bb9eaacf49e39bc92310b2b58946~mv2.png)
+![](./assets/img/agentes.jpg)
 
 Estamos rodeados de agentes digitales que adaptan sus actividades en función de los datos que nosotros mismos producimos. Lo hacen con el objetivo de modificar nuestros comportamientos. Ejemplos de esto incluyen las listas de recomendaciones de Netflix o Amazon, así como el feed de YouTube. El objetivo de este texto es desarrollar una comprensión sobre las características específicas del modo de actuación de estos agentes y las diferencias con respecto a la agencia humana.
 

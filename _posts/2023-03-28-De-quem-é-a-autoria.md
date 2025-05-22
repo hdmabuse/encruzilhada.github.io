@@ -1,7 +1,39 @@
 ---
 lang: pt
 title: De quem é a autoria?
-permalink: /blog/pt/
+img: autoria.jpg
+layout: post
+read_time: true
+show_date: true
+date: 2023-03-28 13:32:20 -0600
+description: 'Autoria, processos criativos, produção coletiva e estruturas sociais.'
+tags:
+  - Inteligência Artificial  
+- Criação  
+- Autoria  
+- Tecnologia  
+- Redes Sociais  
+- Colaboração  
+- Máquinas  
+- Algoritmos  
+- Compartilhamento  
+- Inovação  
+- Poder  
+- Estado da Arte  
+- Desenvolvimento Humano  
+- Teoria  
+- História  
+- Estruturas Sociais  
+- Cultura  
+- Normalidades Culturais  
+- Avanços Tecnológicos  
+- Estruturas Legais  
+- Autoridade Individual  
+- Ritmo do Renascimento  
+- Iluminismo  
+- Autoria Ocidental  
+- Tradicional e Moderna
+author: h.d.mabuse
 ---
 
 Ilustração: Haidée Lima, gerada por AI, a partir de uma litogravura criada a partir de uma fotografia.

@@ -1,12 +1,36 @@
 ---
 lang: en
 title: Is a socially just Artificial Intelligence possible?
-permalink: /blog/en/
+layout: post
+read_time: true
+show_date: true
+date: 2023-03-24 13:32:20 -0600
+description: 'Building on Álvaro Vieira Pinto’s critical lens, this text seeks to reframe technology as an expression of power structures, proposing five axes to decolonize AI: critical ethical frameworks, decolonial data practices, centering marginalized voices, algorithmic accountability, and community-driven governance.'
+img: IAJustSocial.jpg
+tags:
+  - Álvaro Vieira Pinto
+  - critical technology studies
+  - decolonizing AI
+  - ethics in artificial intelligence
+  - power dynamics
+  - data decolonization
+  - marginalized communities
+  - tech transparency
+  - collective ownership
+  - social justice
+  - technological imperialism
+  - philosophy of technology
+  - global south tech
+author: h.d.mabuse
+courtesy_of: 
+name: Haidée Lima
+link: @hdee.art
 ---
+
 
 Originally published in Portuguese on March 24, 2023.
 
-![Illustration by Haidée Lima.](ReadItLater%20Inbox/assets/Is%20a%20socially%20just%20Artificial%20Intelligence%20possible/Illustration%20by%20Haidée%20Lima..png)
+![Illustration by Haidée Lima.](.assets/img/IAJustSocial.jpg)
 
 Illustration by Haidée Lima.
 

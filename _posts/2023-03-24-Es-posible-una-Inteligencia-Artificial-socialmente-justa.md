@@ -1,14 +1,34 @@
 ---
 lang: es
-title: Es posible una Inteligencia Artificial socialmente justa
-permalink: /blog/es/
+title: ¿Es posible una Inteligencia Artificial socialmente justa?
+layout: post
+read_time: true
+show_date: true
+date: 2023-03-24 13:32:20 -0600
+description: 'Desde la mirada crítica de Álvaro Vieira Pinto, este texto replantea la tecnología como expresión de estructuras de poder, proponiendo cinco ejes para descolonizar la IA: marcos éticos críticos, prácticas decoloniales de datos, centralización de voces marginadas, transparencia algorítmica y gobernanza comunitaria.'
+img: IAJustSocial.jpg
+tags:
+  - Álvaro Vieira Pinto
+  - tecnología crítica
+  - descolonización de la IA
+  - ética en inteligencia artificial
+  - relaciones de poder
+  - datos decolonizados
+  - comunidades marginadas
+  - transparencia tecnológica
+  - propiedad colectiva
+  - justicia social
+  - imperialismo tecnológico
+  - filosofía de la tecnología
+  - periferia del capitalismo`
+author: h.d.mabuse
+courtesy_of: 
+name: Haidée Lima
+link: @hdee.art
 ---
-
-
-
 Publicado originalmente en portugués el 24 de marzo de 2023.  
 
-![Ilustración de Haidée Lima.](assets/.png)
+![Ilustración de Haidée Lima.](.assets/img/IAJustSocial.jpg)
 
 Ilustración de Haidée Lima.
 

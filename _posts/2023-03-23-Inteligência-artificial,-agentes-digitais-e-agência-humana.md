@@ -1,7 +1,34 @@
 ---
 lang: pt
 title: Inteligência artificial, agentes digitais e agência humana
-permalink: /blog/pt/
+layout: post
+read_time: true
+show_date: true
+date: 2023-03-23 13:32:20 -0600
+description: 'Agentes digitais moldam comportamentos via dados, mas carecem da "posicionalidade excêntrica" humana — a autoimagem multifacetada (subjetiva, social e objetiva) que gera ambiguidade criativa, incerteza e significado, inexistentes no funcionamento estatístico da IA.'
+img: agentes.jpg
+tags:
+  - Agentes digitais
+  - Agência humana vs. agência algorítmica
+  - Posicionalidade excêntrica
+  - Helmuth Plessner
+  - Antropologia filosófica
+  - Sistemas de recomendação (Netflix/YouTube)
+  - Teoria dos sistemas
+  - Percepção e ação em IA
+  - Incongruência existencial
+  - Autoconsciência multifocal (primeira, segunda e terceira pessoa)
+  - Mireille Hildebrandt
+  - Cibernética de segunda ordem
+  - Produção de significado vs. cálculo matemático
+  - Ambiguidade produtiva
+  - Vulnerabilidade ontológica
+  - Agência não humana (termostatos/plantas)
+  - Crítica à neutralidade tecnológica
+author: h.d.mabuse
+courtesy_of: 
+name: Haidée Lima
+link: @hdee.art
 ---
 
 Ilustração: Haidée Lima
