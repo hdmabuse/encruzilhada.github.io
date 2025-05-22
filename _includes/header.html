@@ -68,9 +68,9 @@
       {% capture logo_url %}{{ relativebase }}{{ site.logo  }}{% endcapture %}
       {% assign logo_url = logo_url | replace: "//", "/" %}
 
-    <a href="{{ site.url }}" class="logo">
-  <h1>{{ site.title }}</h1> <!-- ou um texto fixo, como "Meu Blog" -->
-</a>
+  <span class="logo-text">{{ site.title }}</span>
+
+
       <div class="search-icon-container">
         <span class="search-icon"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
       </div>
