@@ -8,8 +8,8 @@ show_date: true
 date: 2023-03-28 13:32:20 -0600
 description: 'Autoria, processos criativos, produção coletiva e estruturas sociais.'
 tags:
-  - Inteligência Artificial  
-- Criação  
+  - Inteligência Artificial
+  - Criação
 - Autoria  
 - Tecnologia  
 - Redes Sociais  
