@@ -1,10 +1,34 @@
 ---
 lang: en
 title: Generative AI at the Crossroad: From the North's Old Certainties to the South's New Possibilities
-permalink: /blog/en/
+layout: post
+read_time: true
+show_date: true
+date: 2023-03-23 13:32:20 -0600
+description: 'Digital agents manipulate behavior through data, yet lack human "eccentric positionality"—Plessner’s multi-perspective self-awareness enabling creativity and existential ambiguity — absent from the statistical logic of AI.'
+img: geladeira.jpg
+tags:
+  - Artificial Intelligence
+  - Digital agents
+  - Human agency vs. algorithmic agency
+  - Eccentric positionality (Helmuth Plessner)
+  - Philosophical anthropology
+  - Systems theory
+  - Perception and action in AI
+  - Data-driven Artificial Intelligence
+  - Existential incongruity
+  - Multifocal self-awareness (1st/2nd/3rd person)
+  - Mireille Hildebrandt
+  - Second-Order Cybernetics
+  - Meaning production vs. mathematical computation
+  - Productive ambiguity
+  - Ontological vulnerability
+  - Non-human agency (thermostats/plants)
+  - Critique of technological neutrality
+author: h.d.mabuse
 ---
 
-![](ReadItLater%20Inbox/assets/Generative%20AI%20at%20the%20Crossroads%20From%20the%20North's%20Old%20Certainties%20to%20the%20South's%20New%20Possibilities/654be3_c1829ed9d7594048b6d23d5056546b78~mv2.jpg)
+![](./assets/img/geladeira.jpg)
 
 **What This Text Presents:**
 
