@@ -2,6 +2,7 @@
 lang: es
 title: El Cuerpo que Aprende
 layout: post
+img: vermelho.jpg
 read_time: true
 show_date: true
 date: 2023-03-28 13:32:20 -0600
