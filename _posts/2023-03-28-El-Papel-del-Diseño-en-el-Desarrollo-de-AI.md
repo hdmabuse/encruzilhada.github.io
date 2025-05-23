@@ -1,10 +1,16 @@
 ---
 lang: es
 title: El Papel del Diseño en el Desarrollo de AI
-permalink: /blog/es/
+layout: post
+read_time: true
+show_date: true
+date: 2023-03-23 13:32:20 -0600
+description: 'Digital agents manipulate behavior through data, yet lack human "eccentric positionality"—Plessner’s multi-perspective self-awareness enabling creativity and existential ambiguity — absent from the statistical logic of AI.'
+img: rizoma.jpg
+
 ---
 
-![Rizomas](ReadItLater%20Inbox/assets/El%20Papel%20del%20Diseño%20en%20el%20Desarrollo%20de%20AI%20una%20trama%20de%20Personas%20y%20Tecnologías/Rizomas.png)
+![Rizomas](./assets/img/rizoma.png)
 
 Rizomas
 
