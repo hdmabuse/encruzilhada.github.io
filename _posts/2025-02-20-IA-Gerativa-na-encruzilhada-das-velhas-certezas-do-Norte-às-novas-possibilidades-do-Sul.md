@@ -8,36 +8,26 @@ show_date: true
 date: 2023-03-28 13:32:20 -0600
 description: 'Não estamos tratando da escolha entre diferentes modelos de IA - mas sim de decidir se seremos capazes de construir uma IA verdadeiramente plural e descolonizada.'
 tags:
-- Inteligencia Artificial
-- Creación
-- Autoría
-- Tecnología
-- Redes Sociales
-- Colaboración
-- Máquinas
-- Algoritmos
-- Compartir
-- Innovación
-- Poder
-- Estado del Arte
-- Desarrollo Humano
-- Teoría
-- Historia
-- Estructuras Sociales
-- Cultura
-- Normas Culturales
-- Avances Tecnológicos
-- Marcos Legales
-- Autoridad Individual
-- Ritmo del Renacimiento
-- Ilustración
-- Autoría Occidental
-- Tradicional y Moderno
+- Inteligência Artificial Generativa
+- Colonialismo Digital
+- Exploração de Dados
+- Soberania Tecnológica
+- Trabalho Precário
+- Alternativas do Sul Global
+- Ética Situada
+- Modelos Sustentáveis
+- Desigualdades Tecnológicas
+- Resíduos Eletrônicos
+- Agenciamento Humano-Máquina
+- Cosmovisões Indígenas
+- Extração Mineral
+- Racismo Algorítmico
+- Cooperação Sul-Sul
 author: h.d.mabuse
 ---
 
 
-![Não estamos tratando da escolha entre diferentes modelos de IA - mas sim de decidir se seremos capazes de construir uma IA verdadeiramente plural e descolonizada.](.assets/img/geladeira.jpg)
+![](.assets/img/geladeira.jpg)
 
 **O que lhe espera neste texto:**
 
