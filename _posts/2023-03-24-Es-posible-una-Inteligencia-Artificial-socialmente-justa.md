@@ -22,11 +22,11 @@ tags:
   - filosofía de la tecnología
   - periferia del capitalismo`
 author: h.d.mabuse
-courtesy_of: 
+courtesy_of:
 name: Haidée Lima
 link: @hdee.art
 ---
-Publicado originalmente en portugués el 24 de marzo de 2023.  
+Publicado originalmente en portugués el 24 de marzo de 2023.
 
 ![Ilustración de Haidée Lima.](.assets/img/IAJustSocial.jpg)
 
