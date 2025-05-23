@@ -1,7 +1,7 @@
 ---
 lang: en
 title: Generative AI at the Crossroad: From the North's Old Certainties to the South's New Possibilities
-limg: geladeira.jpg
+img: geladeira.jpg
 layout: post
 read_time: true
 show_date: true
