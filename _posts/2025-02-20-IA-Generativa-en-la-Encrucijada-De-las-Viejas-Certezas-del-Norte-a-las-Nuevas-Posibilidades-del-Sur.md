@@ -6,26 +6,28 @@ layout: post
 read_time: true
 show_date: true
 date: 2023-03-28 13:32:20 -0600
-description: 'No se trata de elegir entre diferentes modelos de IA, sino de decidir si seremos capaces de construir una IA verdaderamente plural y descolonizada.'
+description: 'Não estamos tratando da escolha entre diferentes modelos de IA - mas sim de decidir se seremos capazes de construir uma IA verdadeiramente plural e descolonizada.'
 tags:
- - Inteligencia Artificial Generativa
+- Inteligência Artificial Gerativa
 - Colonialismo Digital
-- Extracción de Datos
-- Soberanía Tecnológica
-- Trabajo Precario
-- Alternativas del Sur Global
+- Exploração de Dados
+- Soberania Tecnológica
+- Trabalho Precário
+- Alternativas do Sul Global
 - Ética Situada
-- Modelos Sostenibles
+- Modelos Sustentáveis
 - Desigualdades Tecnológicas
-- Residuos Electrónicos
-- Agenciamiento Humano-Máquina
-- Cosmovisiones Indígenas
-- Extracción Mineral
+- Resíduos Eletrônicos
+- Agenciamento Humano-Máquina
+- Cosmovisões Indígenas
+- Extração Mineral
 - Racismo Algorítmico
-- Cooperación Sur-Sur
+- Cooperação Sul-Sul
 author: h.d.mabuse
 ---
 
+
+![](.assets/img/geladeira.jpg)
 
 **Lo que este texto presenta:**
 

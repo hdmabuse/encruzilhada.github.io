@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Generative AI at the Crossroad: From the North's Old Certainties to the South's New Possibilities
+limg: geladeira.jpg
 layout: post
 read_time: true
 show_date: true
-date: 2023-03-23 13:32:20 -0600
-description: 'Digital agents manipulate behavior through data, yet lack human "eccentric positionality"—Plessner’s multi-perspective self-awareness enabling creativity and existential ambiguity — absent from the statistical logic of AI.'
-img: geladeira.jpg
+date: 2023-03-28 13:32:20 -0600
+description: 'Não estamos tratando da escolha entre diferentes modelos de IA - mas sim de decidir se seremos capazes de construir uma IA verdadeiramente plural e descolonizada.'
 tags:
 - Generative Artificial Intelligence
 - Digital Colonialism
