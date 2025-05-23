@@ -8,23 +8,21 @@ date: 2023-03-23 13:32:20 -0600
 description: 'Digital agents manipulate behavior through data, yet lack human "eccentric positionality"—Plessner’s multi-perspective self-awareness enabling creativity and existential ambiguity — absent from the statistical logic of AI.'
 img: geladeira.jpg
 tags:
-  - Artificial Intelligence
-  - Digital agents
-  - Human agency vs. algorithmic agency
-  - Eccentric positionality (Helmuth Plessner)
-  - Philosophical anthropology
-  - Systems theory
-  - Perception and action in AI
-  - Data-driven Artificial Intelligence
-  - Existential incongruity
-  - Multifocal self-awareness (1st/2nd/3rd person)
-  - Mireille Hildebrandt
-  - Second-Order Cybernetics
-  - Meaning production vs. mathematical computation
-  - Productive ambiguity
-  - Ontological vulnerability
-  - Non-human agency (thermostats/plants)
-  - Critique of technological neutrality
+- Generative Artificial Intelligence
+- Digital Colonialism
+- Data Exploitation
+- Technological Sovereignty
+- Precarious Labor
+- Global South Alternatives
+- Situated Ethics
+- Sustainable Models
+- Technological Inequalities
+- Electronic Waste
+- Human-Machine Assemblage
+- Indigenous Worldviews
+- Mineral Extraction
+- Algorithmic Racism
+- South-South Cooperation
 author: h.d.mabuse
 ---
 
