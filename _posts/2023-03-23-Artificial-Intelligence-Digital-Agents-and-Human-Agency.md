@@ -6,7 +6,7 @@ read_time: true
 show_date: true
 date: 2023-03-23 13:32:20 -0600
 description: 'Digital agents manipulate behavior through data, yet lack human "eccentric positionality"—Plessner’s multi-perspective self-awareness enabling creativity and existential ambiguity — absent from the statistical logic of AI.'
-img: agents.jpg
+img: agentes.jpg
 tags:
   - Artificial Intelligence
   - Digital agents
