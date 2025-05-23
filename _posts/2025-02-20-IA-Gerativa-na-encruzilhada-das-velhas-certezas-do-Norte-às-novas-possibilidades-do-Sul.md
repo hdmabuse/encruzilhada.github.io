@@ -8,7 +8,7 @@ show_date: true
 date: 2023-03-28 13:32:20 -0600
 description: 'Não estamos tratando da escolha entre diferentes modelos de IA - mas sim de decidir se seremos capazes de construir uma IA verdadeiramente plural e descolonizada.'
 tags:
-- Inteligência Artificial Generativa
+- Inteligência Artificial Gerativa
 - Colonialismo Digital
 - Exploração de Dados
 - Soberania Tecnológica

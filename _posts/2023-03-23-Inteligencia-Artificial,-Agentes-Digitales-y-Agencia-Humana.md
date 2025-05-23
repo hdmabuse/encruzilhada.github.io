@@ -5,7 +5,7 @@ layout: post
 read_time: true
 show_date: true
 date: 2023-03-23 13:32:20 -0600
-description: '«Los agentes digitales moldean comportamientos mediante datos, pero carecen de la "posicionalidad excéntrica" humana: esa autoimagen multifacética (subjetiva, social y objetiva) que genera ambigüedad creativa, incertidumbre y significado, inexistentes en el funcionamento estatístico de la IA».'
+description: Los agentes digitales moldean comportamientos mediante datos, pero carecen de la "posicionalidad excéntrica" humana: esa autoimagen multifacética (subjetiva, social y objetiva) que genera ambigüedad creativa, incertidumbre y significado, inexistentes en el funcionamento estatístico de la IA.
 img: agentes.jpg
 tags:
 - Agentes digitales  
@@ -25,7 +25,6 @@ tags:
 - Vulnerabilidad ontológica  
 - Agencia no humana (termostatos/plantas)  
 - Crítica a la neutralidad tecnológica  
-- 
 author: h.d.mabuse
 courtesy_of: 
 name: Haidée Lima
