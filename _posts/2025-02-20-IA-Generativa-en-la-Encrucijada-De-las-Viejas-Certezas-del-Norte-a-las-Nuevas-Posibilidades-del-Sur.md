@@ -1,8 +1,31 @@
-[[ReadItLater]] [[Article]]
+---
+lang: es
+title: IA Generativa en la encruzijada: De las viejas certezas del Norte a las nuevas possibilidades del Sur.
+img: geladeira.jpg
+layout: post
+read_time: true
+show_date: true
+date: 2023-03-28 13:32:20 -0600
+description: 'No se trata de elegir entre diferentes modelos de IA, sino de decidir si seremos capaces de construir una IA verdaderamente plural y descolonizada.'
+tags:
+ - Inteligencia Artificial Generativa
+- Colonialismo Digital
+- Extracción de Datos
+- Soberanía Tecnológica
+- Trabajo Precario
+- Alternativas del Sur Global
+- Ética Situada
+- Modelos Sostenibles
+- Desigualdades Tecnológicas
+- Residuos Electrónicos
+- Agenciamiento Humano-Máquina
+- Cosmovisiones Indígenas
+- Extracción Mineral
+- Racismo Algorítmico
+- Cooperación Sur-Sur
+author: h.d.mabuse
+---
 
-# [IA Generativa en la Encrucijada: De las Viejas Certezas del Norte a las Nuevas Posibilidades del Sur](https://www.mabuse.art.br/post/ia-generativa-en-la-encrucijada-de-las-viejas-certezas-del-norte-a-las-nuevas-posibilidades-del-sur)
-
-![](ReadItLater%20Inbox/assets/IA%20Generativa%20en%20la%20Encrucijada%20De%20las%20Viejas%20Certezas%20del%20Norte%20a%20las%20Nuevas%20Posibilidades%20del%20Sur/654be3_c1829ed9d7594048b6d23d5056546b78~mv2.jpg)
 
 **Lo que este texto presenta:**
 
