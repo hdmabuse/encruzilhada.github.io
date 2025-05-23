@@ -1,10 +1,41 @@
 ---
 lang: pt
 title: Lamento Negro
-permalink: /blog/pt/
+img: lamentonegro.jpg
+layout: post
+read_time: true
+show_date: true
+date: 2023-03-28 13:32:20 -0600
+description: 'Não estamos tratando da escolha entre diferentes modelos de IA - mas sim de decidir se seremos capazes de construir uma IA verdadeiramente plural e descolonizada.'
+tags:
+- Inteligencia Artificial
+- Creación
+- Autoría
+- Tecnología
+- Redes Sociales
+- Colaboración
+- Máquinas
+- Algoritmos
+- Compartir
+- Innovación
+- Poder
+- Estado del Arte
+- Desarrollo Humano
+- Teoría
+- Historia
+- Estructuras Sociales
+- Cultura
+- Normas Culturales
+- Avances Tecnológicos
+- Marcos Legales
+- Autoridad Individual
+- Ritmo del Renacimiento
+- Ilustración
+- Autoría Occidental
+- Tradicional y Moderno
+author: h.d.mabuse
 ---
-
-![](ReadItLater%20Inbox/assets/Lamento%20Negro/654be3_c477fc81987c4f9bb8e4506122672880~mv2.png)
+![](./assets/img/lamentonegro.jpg)
 
 Para falar sobre o **Lamento Negro** é importante falar sobre **Peixinhos**, bairro localizado na divisa entre Recife e Olinda, que tem muita história. Surge com uma extensão do **Quilombo Catucá**, e como bairro foi fundado ainda no final do **século XIX**, tendo como referência o rio Beberibe (de onde vem tão poeticamente o nome do Bairro, o rio dos peixinhos) O bairro foi fundado no final do século XIX, tendo como marco o início da construção do **Matadouro Industrial Municipal de Olinda** (que na virada do século XXI daria lugar ao Nascedouro).
 

@@ -1,12 +1,43 @@
 ---
 lang: pt
 title: IA Gerativa na encruzilhada das velhas certezas do Norte às novas possibilidades do Sul.
-permalink: /blog/pt/
+img: geladeira.jpg
+layout: post
+read_time: true
+show_date: true
+date: 2023-03-28 13:32:20 -0600
+description: 'Não estamos tratando da escolha entre diferentes modelos de IA - mas sim de decidir se seremos capazes de construir uma IA verdadeiramente plural e descolonizada.'
+tags:
+- Inteligencia Artificial
+- Creación
+- Autoría
+- Tecnología
+- Redes Sociales
+- Colaboración
+- Máquinas
+- Algoritmos
+- Compartir
+- Innovación
+- Poder
+- Estado del Arte
+- Desarrollo Humano
+- Teoría
+- Historia
+- Estructuras Sociales
+- Cultura
+- Normas Culturales
+- Avances Tecnológicos
+- Marcos Legales
+- Autoridad Individual
+- Ritmo del Renacimiento
+- Ilustración
+- Autoría Occidental
+- Tradicional y Moderno
+author: h.d.mabuse
 ---
 
-![Não estamos tratando da escolha entre diferentes modelos de IA - mas sim de decidir se seremos capazes de construir uma IA verdadeiramente plural e descolonizada.](ReadItLater%20Inbox/assets/IA%20Gerativa%20na%20encruzilhada%20das%20velhas%20certezas%20do%20Norte%20às%20novas%20possibilidades%20do%20Sul./Não%20estamos%20tratando%20da%20escolha%20entre%20diferentes%20modelos%20de%20IA%20-%20mas%20sim%20de%20decidir%20se%20seremos%20capazes%20de%20construir%20uma%20IA%20verdadeiramente%20plural%20e%20descolonizada..jpg)
 
-Não estamos tratando da escolha entre diferentes modelos de IA - mas sim de decidir se seremos capazes de construir uma IA verdadeiramente plural e descolonizada.
+![Não estamos tratando da escolha entre diferentes modelos de IA - mas sim de decidir se seremos capazes de construir uma IA verdadeiramente plural e descolonizada.](.assets/img/geladeira.jpg)
 
 **O que lhe espera neste texto:**
 
