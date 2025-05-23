@@ -1,11 +1,33 @@
 ---
 lang: pt
 title: Ficção Especulativa no Combate às Ditaduras: Reinventando Futuros Interrompidos
-permalink: /blog/pt/
+layout: post
+img: chile.jpg
+read_time: true
+show_date: true
+date: 2023-03-28 13:32:20 -0600
+description: 'Autoría, procesos creativos, producción colectiva e estructuras sociales.'
+tags:
+- Projeto Synco/Cybersyn
+- Democracia Digital
+- Socialismo Tecnológico
+- História Contrafactual
+- Cibernética Socialista
+- Tecnologia Democrática
+- Planejamento Participativo
+- Ditaduras Tecnológicas
+- Inovação Libertadora
+- Bem Comum Digital
+- Soberania de Dados
+- Redes Cooperativas
+- América Latina
+- Futuros Interrompidos
+- Sul Global
+
+author: h.d.mabuse
 ---
 
-
-![Sala de Controlde do Synco/Cybersyn](ReadItLater%20Inbox/assets/Ficção%20Especulativa%20no%20Combate%20às%20Ditaduras%20Reinventando%20Futuros%20Interrompidos/Sala%20de%20Controlde%20do%20SyncoCybersyn.jpg)
+![Sala de Operaciones del Proyecto Synco/Cybersyn](./assets/img/chile.jpg)
 
 Sala de Controlde do Synco/Cybersyn
 
@@ -13,7 +35,7 @@ A ficção especulativa como instrumento de pensamento do design, não se resume
 
 O que eu proponho a você que me lê agora nesse 1 de abril de 2025, é fazer um exercício a partir de dois momentos históricos—um no Chile, outro no Brasil — que ilustram como projetos visionários, interrompidos por rupturas políticas, poderiam ter reconfigurado o futuro da tecnologia na América do Sul e no mundo.
 
-![Salvador Allende](ReadItLater%20Inbox/assets/Ficção%20Especulativa%20no%20Combate%20às%20Ditaduras%20Reinventando%20Futuros%20Interrompidos/Salvador%20Allende.webp)
+![Salvador Allende](./assets/img/allende.jpg)
 
 Salvador Allende
 
@@ -41,7 +63,8 @@ Em 1973, o projeto foi interrompido, no dia 11 de setembro, por um golpe militar
 
 O golpe de 1973 enterrou o Synco/Cybersyn, mas sua história de um desenvolvimento técnico socialista permanece como um **"futuro perdido"** sempre à espreita —um lembrete de que a partir dali a tecnologia poderia ter tomado um caminho radicalmente diferente no mundo.
 
-![](ReadItLater%20Inbox/assets/Ficção%20Especulativa%20no%20Combate%20às%20Ditaduras%20Reinventando%20Futuros%20Interrompidos/654be3_a85959d30d5141e1a3a8877785cafa2c~mv2.jpg)
+
+![Miguel Arraes](./assets/img/arraes.jpg)
 
 ## **Caso 02 - Pernambuco e a Computação: E se o Recife tivesse se tornado um pólo tecnológico décadas antes?**
 

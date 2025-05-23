@@ -1,11 +1,35 @@
 ---
 lang: es
 title: Ficción Especulativa en la Lucha Contra las Dictaduras: Reinventando Futuros Interrumpidos
-permalink: /blog/es/
+layout: post
+img: chile.jpg
+read_time: true
+show_date: true
+date: 2023-03-28 13:32:20 -0600
+description: 'Autoría, procesos creativos, producción colectiva e estructuras sociales.'
+tags:
+- Proyecto Synco/Cybersyn
+- Democracia Digital
+- Socialismo Tecnológico
+- Historia Contrafactual
+- Cibernética Socialista
+- Tecnología Democrática
+- Planificación Participativa
+- Dictaduras Tecnológicas
+- Innovación Liberadora
+- Bien Común Digital
+- Soberanía de Datos
+- Redes Cooperativas
+- América Latina
+- Futuros Interrumpidos
+- Sur Global
+
+author: h.d.mabuse
 ---
 
 
-![Sala de Operaciones del Proyecto Synco/Cybersyn](ReadItLater%20Inbox/assets/Ficción%20Especulativa%20en%20la%20Lucha%20Contra%20las%20Dictaduras%20Reinventando%20Futuros%20Interrumpidos/Sala%20de%20Operaciones%20del%20Proyecto%20SyncoCybersyn.jpg)
+
+![Sala de Operaciones del Proyecto Synco/Cybersyn](./assets/img/chile.jpg)
 
 Sala de Operaciones del Proyecto Synco/Cybersyn
 
@@ -13,7 +37,7 @@ Sala de Operaciones del Proyecto Synco/Cybersyn
 
 Lo que propongo a usted, lector, este 1° de abril de 2025, es un ejercicio a partir de dos momentos históricos—uno en Chile, otro en Brasil—que ilustran cómo proyectos visionarios, interrumpidos por rupturas políticas, podrían haber reconfigurado el futuro de la tecnología en América del Sur y el mundo.
 
-![Salvador Allende](ReadItLater%20Inbox/assets/Ficción%20Especulativa%20en%20la%20Lucha%20Contra%20las%20Dictaduras%20Reinventando%20Futuros%20Interrumpidos/Salvador%20Allende.webp)
+![Salvador Allende](./assets/img/allende.jpg)
 
 Salvador Allende
 
@@ -36,16 +60,15 @@ Así como el gobierno garantizó **leche gratuita para niños** y **aumentos 
 El 11 de septiembre de 1973, el proyecto fue interrumpido por un golpe militar en el que Allende fue asesinado. Pero su lección perdura:
 
 -   **La tecnología no es neutral**. Synco/Cybersyn demostraba que podía ser **participativa, popular y anticolonial**—un antídoto al Silicon Valley.
-    
+
 -   **Las Reformas de Base y la cibernética eran parte del mismo sueño**: una economía donde recursos **físicos** (cobre, tierras) y **digitales** (datos, algoritmos) sirvieran a todos.
-    
+
 
 [El golpe enterró Synco/Cybersyn](https://shifter.pt/2023/08/cybersyn-allende-chile/), pero su historia de desarrollo técnico socialista persiste como un **"futuro perdido"**—un recordatorio de que la tecnología pudo haber tomado un camino radicalmente distinto en el mundo.
 
-![](ReadItLater%20Inbox/assets/Ficción%20Especulativa%20en%20la%20Lucha%20Contra%20las%20Dictaduras%20Reinventando%20Futuros%20Interrumpidos/654be3_a85959d30d5141e1a3a8877785cafa2c~mv2.jpg)
-
 ## **Caso 02 - Pernambuco y la computación: ¿Y si Recife se hubiera convertido en polo tecnológico décadas antes?**
 
+![Miguel Arraes](./assets/img/arraes.jpg)
 En 1961, el entonces alcalde de Recife, Miguel Arraes de Alencar, dio un pequeño paso en el camino que convertiría a la ciudad—especialmente al barrio de Recife—en el mayor parque tecnológico y de innovación al aire libre de Brasil: **Recife "contrató" un IBM 1401** para racionalizar computacionalmente la administración pública. En esa época, las computadoras eran extremadamente raras en el país—solo Río de Janeiro y São Paulo habían adquirido equipos similares.
 
 Esta decisión generó un **ecosistema tecnológico** que incluyó desde muy temprano a **Procenge**, una de las primeras empresas de software del Nordeste. El **curso de Ciencias de la Computación de la UFPE**, uno de los más importantes de Brasil, que comenzó con la compra de un IBM 1130 y surgió como Centro de Computación Electrónica, formando generaciones de profesionales que desarrollarían iniciativas como la creación de la primera microcomputadora hecha en el noreste en los años 80: el [Corisco](https://jornaldigital.recife.br/2023/05/10/o-vale-da-areia-e-o-computador-100-pernambucano/).
