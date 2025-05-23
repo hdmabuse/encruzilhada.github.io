@@ -36,7 +36,7 @@ tags:
 author: h.d.mabuse
 ---
 
-![Ilustración: Haidée Lima, generada por IA, a partir de una litografía creada a partir de una fotografía.](ReadItLater%20Inbox/assets/¿De%20quién%20es%20la%20autoría/Ilustración%20Haidée%20Lima,%20generada%20por%20IA,%20a%20partir%20de%20una%20litografía%20creada%20a%20partir%20de%20una%20fotografía..png)
+![Ilustración: Haidée Lima, generada por IA, a partir de una litografía creada a partir de una fotografía.](./assets/img/autoria.jpg)
 
 Ilustración: Haidée Lima, generada por IA, a partir de una litografía creada a partir de una fotografía.
 
