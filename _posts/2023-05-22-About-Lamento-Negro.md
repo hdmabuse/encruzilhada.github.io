@@ -6,7 +6,7 @@ layout: post
 read_time: true
 show_date: true
 date: 2023-03-28 13:32:20 -0600
-description: 'Peixinhos: historic Recife/Olinda neighborhood. From 19th-century industrial hub (slaughterhouse, Fosforita phosphate) to post-industrial crisis. Birthed Lamento Negro – an Afoxé blending samba-reggae, coco & Afro-Brazilian rhythms – inspiring Chico Science's Mangue Beat and Nação Zumbi.'
+description: "Peixinhos: historic Recife/Olinda neighborhood. From 19th-century industrial hub (slaughterhouse, Fosforita phosphate) to post-industrial crisis. Birthed Lamento Negro – an Afoxé blending samba-reggae, coco & Afro-Brazilian rhythms – inspiring Chico Science's Mangue Beat and Nação Zumbi."
 tags:
 - Peixinhos Recife
 - Quilombo Catucá
