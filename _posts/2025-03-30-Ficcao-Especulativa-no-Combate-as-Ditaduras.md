@@ -1,30 +1,31 @@
 ---
 lang: pt
-title: "Ficção Especulativa no Combate às Ditaduras: Reinventando Futuros Interrompidos"
+title: "Ficção Especulativa no Combate às Ditaduras: Reinventando Futuros
+  Interrompidos"
 layout: post
 img: chile.jpg
 read_time: true
 show_date: true
 date: 2023-03-28 13:32:20 -0600
-description: 'Autoría, procesos creativos, producción colectiva e estructuras sociales.'
+description: Autoría, procesos creativos, producción colectiva e estructuras sociales.
 tags:
-- Projeto Synco/Cybersyn
-- Democracia Digital
-- Socialismo Tecnológico
-- História Contrafactual
-- Cibernética Socialista
-- Tecnologia Democrática
-- Planejamento Participativo
-- Ditaduras Tecnológicas
-- Inovação Libertadora
-- Bem Comum Digital
-- Soberania de Dados
-- Redes Cooperativas
-- América Latina
-- Futuros Interrompidos
-- Sul Global
-
+  - Projeto Synco/Cybersyn
+  - Democracia Digital
+  - Socialismo Tecnológico
+  - História Contrafactual
+  - Cibernética Socialista
+  - Tecnologia Democrática
+  - Planejamento Participativo
+  - Ditaduras Tecnológicas
+  - Inovação Libertadora
+  - Bem Comum Digital
+  - Soberania de Dados
+  - Redes Cooperativas
+  - América Latina
+  - Futuros Interrompidos
+  - Sul Global
 author: h.d.mabuse
+
 ---
 
 ![Sala de Operaciones del Proyecto Synco/Cybersyn](./assets/img/chile.jpg)
