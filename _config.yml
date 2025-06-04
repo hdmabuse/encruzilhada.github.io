@@ -1,7 +1,7 @@
 # Site settings
 title: ENCRUZILHADA
 description: 'Arte, design, filosofia e música.' # this means to ignore newlines until "baseurl:"
-permalink: ':title:output_ext'
+#permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://mabuse.art.br" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/MVM-logo-full.svg"
