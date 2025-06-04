@@ -1,38 +1,35 @@
 ---
 lang: en
-title: Lamento Negro
+title: About Lamento Negro
 img: lamentonegro.jpg
 layout: post
 read_time: true
 show_date: true
 date: 2023-03-28 13:32:20 -0600
-description: 'Não estamos tratando da escolha entre diferentes modelos de IA - mas sim de decidir se seremos capazes de construir uma IA verdadeiramente plural e descolonizada.'
+description: 'Peixinhos: historic Recife/Olinda neighborhood. From 19th-century industrial hub (slaughterhouse, Fosforita phosphate) to post-industrial crisis. Birthed Lamento Negro – an Afoxé blending samba-reggae, coco & Afro-Brazilian rhythms – inspiring Chico Science's Mangue Beat and Nação Zumbi.'
 tags:
-- Inteligencia Artificial
-- Creación
-- Autoría
-- Tecnología
-- Redes Sociales
-- Colaboración
-- Máquinas
-- Algoritmos
-- Compartir
-- Innovación
-- Poder
-- Estado del Arte
-- Desarrollo Humano
-- Teoría
-- Historia
-- Estructuras Sociales
-- Cultura
-- Normas Culturales
-- Avances Tecnológicos
-- Marcos Legales
-- Autoridad Individual
-- Ritmo del Renacimiento
-- Ilustración
-- Autoría Occidental
-- Tradicional y Moderno
+- Peixinhos Recife
+- Quilombo Catucá
+- Beberibe River
+- Olinda Slaughterhouse
+- Santa Maria Tannery
+- Fosforita Olinda
+- Phosphate source
+- Periphery capitalism
+- Waste transfer
+- Community organization
+- Mangue Manifesto
+- Unemployment violence
+- Lamento Negro
+- Afoxé musical
+- Samba-reggae
+- Afro-Brazilian rituals
+- Maracatu tradition
+- Ciranda dance
+- Samba de roda
+- Chico Science
+- Nação Zumbi
+- Mangue sound
 author: h.d.mabuse
 ---
 ![](./assets/img/lamentonegro.jpg)
