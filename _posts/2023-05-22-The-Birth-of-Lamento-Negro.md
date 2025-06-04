@@ -1,6 +1,6 @@
 ---
 lang: en
-title: About Lamento Negro
+title: The Birth of Lamento Negro
 img: lamentonegro.jpg
 layout: post
 read_time: true
