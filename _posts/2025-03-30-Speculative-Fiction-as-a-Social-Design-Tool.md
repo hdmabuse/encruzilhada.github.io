@@ -6,7 +6,7 @@ img: chile.jpg
 read_time: true
 show_date: true
 date: 2023-04-01 13:32:20 -0600
-description: 'Autoría, procesos creativos, producción colectiva e estructuras sociales.'
+description: Autoría, procesos creativos, producción colectiva e estructuras sociales.
 tags:
 - Synco/Cybersyn Project
 - Digital Democracy

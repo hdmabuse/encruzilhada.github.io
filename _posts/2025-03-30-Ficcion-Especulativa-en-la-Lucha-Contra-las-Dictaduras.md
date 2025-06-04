@@ -1,6 +1,6 @@
 ---
 lang: es
-title: Ficción Especulativa en la Lucha Contra las Dictaduras: Reinventando Futuros Interrumpidos
+title: Ficción Especulativa en la Lucha Contra las Dictaduras, Reinventando Futuros Interrumpidos
 layout: post
 img: chile.jpg
 read_time: true
