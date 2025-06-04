@@ -5,14 +5,27 @@ layout: post
 img: chile.jpg
 read_time: true
 show_date: true
-date: 2023-03-28 13:32:20 -0600
+date: 2023-04-01 13:32:20 -0600
 description: 'Autoría, procesos creativos, producción colectiva e estructuras sociales.'
 tags:
-
+- Proyecto Synco/Cybersyn
+- Democracia Digital
+- Socialismo Tecnológico
+- Historia Contrafactual
+- Cibernética Socialista
+- Tecnología Democrática
+- Planificación Participativa
+- Dictaduras Tecnológicas
+- Innovación Liberadora
+- Comunes Digitales
+- Soberanía de Datos
+- Redes Cooperativas
+- América Latina
+- Futuros Interrumpidos
+- Sur Global
 
 author: h.d.mabuse
 ---
-
 
 
 ![Sala de Operaciones del Proyecto Synco/Cybersyn](./assets/img/chile.jpg)
