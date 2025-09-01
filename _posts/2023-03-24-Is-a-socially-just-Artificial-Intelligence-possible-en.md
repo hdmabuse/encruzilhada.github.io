@@ -5,7 +5,7 @@ layout: post
 read_time: true
 show_date: true
 date: 2023-03-24 13:32:20 -0600
-description: 'Building on Álvaro Vieira Pinto’s critical lens, this text seeks to reframe technology as an expression of power structures, proposing five axes to decolonize AI: critical ethical frameworks, decolonial data practices, centering marginalized voices, algorithmic accountability, and community-driven governance.'
+description: "Building on Álvaro Vieira Pinto's critical lens, this text seeks to reframe technology as an expression of power structures, proposing five axes to decolonize AI: critical ethical frameworks, decolonial data practices, centering marginalized voices, algorithmic accountability, and community-driven governance."
 img: IAJustSocial.jpg
 tags:
   - Álvaro Vieira Pinto
@@ -24,7 +24,7 @@ tags:
 author: h.d.mabuse
 courtesy_of: 
 name: Haidée Lima
-link: @hdee.art
+link: "@hdee.art"
 ---
 
 

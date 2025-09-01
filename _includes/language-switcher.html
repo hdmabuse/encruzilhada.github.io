@@ -1,9 +1,14 @@
-<div class="lang-switcher">
-  {% for lang in site.languages %}
-    {% if lang == site.default_lang %}
-      <a href="{{ site.baseurl }}{{ page.url }}">{{ lang | upcase }}</a>
-    {% else %}
-      <a href="{{ site.baseurl }}/{{ lang }}{{ page.url }}">{{ lang | upcase }}</a>
-    {% endif %}
-  {% endfor %}
-</div>
+
+<nav class="lang-switcher">
+  <ul>
+    {% for l in site.languages %}
+      {% capture lang_href %}
+        {{ site.baseurl }}{% if l != site.default_lang %}/{{ l }}{% endif %}{% if page.permalink_lang and page.permalink_lang[l] and page.permalink_lang[l] != '/' %}{{ page.permalink_lang[l] }}{% endif %}
+      {% endcapture %}
+      <li>
+        <a href="{{ lang_href | strip }}">{{ l }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
+
